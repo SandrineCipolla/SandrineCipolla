@@ -16,6 +16,18 @@ J'ai donc intégré Ada Tech School en Janvier 2023 et recherche un alternance d
   - ⚡Je porte un grand interêt au clean code et pour aller vers cette voie, je pratique Git/Github régulièrement et me renseigne sur le TDD.</br>
   - 🗃Dans un futur proche, je souhaite explorer le back-end avec les bases de données (Mysql et Firebase) et du python.
 
+### Contactez moi !! 📨
+
+<a href="https://www.linkedin.com/in/sandrine-cipolla-003a7622/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn link"/>
+  </a>
+  
+  
+  <a href="mailto:sandrine.cipolla@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail" alt="Gmail link"/>
+  </a>
+  
+
 
 <!--
 **SandrineCipolla/SandrineCipolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
