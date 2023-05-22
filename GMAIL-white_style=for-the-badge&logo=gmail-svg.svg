@@ -1,0 +1,23 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 28" width="88" height="28">
+	<title>GMAIL-white?style=for-the-badge&amp;logo=gmail-svg</title>
+	<defs>
+		<image  width="14" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAAXNSR0IB2cksfwAAAFdQTFRFAAAA6kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM16kM1APnOlwAAAB10Uk5TAB44Esb3yMX/41IE/IT4+2C2/UAdme8ISOswECz/jQn6AAAAZklEQVR4nF3PRxaAIBAD0CAqsZdRrPc/p4LyLNlM/stqgG9UpEPVkUKcpOoe0sSAZJYXQJFnZ3VkWWldlQxkbUzNwMY3fxzbrif7rr0pw2jtOEggpnme8NDH0765YBXZLm4i+++DAwBvBb2dMJdbAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff } 
+		.t1 { font-size: 100px;fill: #333333;font-family: "Verdana" } 
+		.s2 { fill: none;stroke: #ff0000;stroke-width: 2.3 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m0 0h87.2v28h-87.2z"/>
+	</g>
+	<g id="Layer">
+		<use id="Layer" href="#img1" x="9" y="7"/>
+		<text id="GMAIL" style="transform: matrix(.1,0,0,.1,53.625,17.5)" >
+			<tspan x="-158.7" y="0" class="t1">GMAIL
+</tspan>
+		</text>
+		<path id="Forme 1" class="s2" d="m0 0h88v28h-88z"/>
+	</g>
+</svg>
