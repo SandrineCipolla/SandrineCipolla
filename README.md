@@ -24,7 +24,7 @@ J'ai donc intégré Ada Tech School en Janvier 2023 et recherche un alternance d
   
   
   <a href="mailto:sandrine.cipolla@gmail.com">
-    <img src="https://github.com/SandrineCipolla/SandrineCipolla/blob/78860a251af4aff83f46e76bb5fef53bc4a33199/GMAIL-white_style%3Dfor-the-badge%26logo%3Dgmail-svg.png" alt="Gmail link"/>
+    <img src="GMAIL-white_style=for-the-badge&logo=gmail-svg.svg" alt="Gmail link"/>
   </a>
   
 
